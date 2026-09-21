@@ -27,6 +27,13 @@ This project measures the distance of an object using the HC-SR04 ultrasonic sen
  TRIG   ->   GPIO 5 
  ECHO   ->   GPIO 18 
 
+## Working Principle
+
+1. ESP32 sends a trigger pulse to the HC-SR04 sensor.
+2. The sensor transmits an ultrasonic wave.
+3. The wave reflects from an object and returns to the sensor.
+4. ESP32 measures the echo time.
+5. Distance is calculated using the speed of sound. 
 ## Features
 
 - Real-time distance measurement
