@@ -33,12 +33,12 @@ The ESP32 sends a pulse through the TRIG pin. The HC-SR04 returns an echo pulse.
 
 ## Source Code
 ultrasonic_distance_measurement.ino
-## Author
 
+## Author
 Sumit Waghmare
 
- Watch the project Video:
-(https://youtu.be/UsXGg_bH8ts?si=-209mZDg69pSJKbB)
+Watch the project Video:
+https://youtu.be/UsXGg_bH8ts?si=-209mZDg69pSJKbB
 
 YouTube Channel:
 https://www.youtube.com/@sumitlab8028
