@@ -24,6 +24,9 @@ Red    ->   22
 3. Red LED turns ON for 5 seconds.
 4. The sequence repeats continuously.
 
+ ## Source Code
+ 
+
 ## Features
 - Automated traffic signal sequence
 - Easy to modify timings
