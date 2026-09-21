@@ -12,6 +12,14 @@ This project simulates a traffic light system using an ESP32 and three LEDs.
 - Breadboard
 - Jumper Wires
 
+## Circuit Diagram
+
+![Circuit Diagram](circuit_diagram.png)
+
+## Project Photo
+
+![Project Photo](Project_image.jpg)  
+
 ## GPIO Connections
 LED         GPIO
 Green  ->   2
