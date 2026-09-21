@@ -30,7 +30,7 @@ Red    ->   22
 1. Green LED turns ON for 5 seconds.
 2. Yellow LED turns ON for 2 seconds.
 3. Red LED turns ON for 5 seconds.
-4. The sequence repeats continuously.
+4. The sequence repeats continuously
 
  ## Source Code
  traffic_light_control_system_Code.ino
@@ -39,6 +39,13 @@ Red    ->   22
 - Automated traffic signal sequence
 - Easy to modify timings
 - ESP32-based implementation
+
+## Applications
+
+- Traffic Signal Simulation
+- Embedded Systems Learning
+- GPIO Control Practice
+- Smart City Demonstrations  
 
 ## Author
 Sumit Waghmare
