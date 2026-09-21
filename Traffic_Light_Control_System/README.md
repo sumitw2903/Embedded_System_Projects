@@ -25,7 +25,7 @@ Red    ->   22
 4. The sequence repeats continuously.
 
  ## Source Code
- 
+ traffic_light_control_system_Code.ino
 
 ## Features
 - Automated traffic signal sequence
