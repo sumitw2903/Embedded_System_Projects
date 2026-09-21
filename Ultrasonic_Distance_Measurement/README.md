@@ -37,7 +37,7 @@ ultrasonic_distance_measurement.ino
 
 Sumit Waghmare
 
- Watch YouTube Video:
+ Watch the project Video:
 (https://youtu.be/UsXGg_bH8ts?si=-209mZDg69pSJKbB)
 
 YouTube Channel:
