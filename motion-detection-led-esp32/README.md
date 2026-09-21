@@ -31,14 +31,6 @@ This project uses an ESP32 and a PIR motion sensor to detect movement. When moti
  PIR GND       ->    GND 
  LED Negative  ->    GND (through 220Ω resistor)
 
-## Working Principle
-
-1. The PIR sensor continuously monitors motion.
-2. When motion is detected, the sensor output becomes HIGH.
-3. ESP32 reads the sensor signal.
-4. The LED turns ON when motion is detected.
-5. The LED turns OFF when no motion is detected.
-
 ## Features
 
 - Real-time motion detection
