@@ -27,9 +27,20 @@ This project measures the distance of an object using the HC-SR04 ultrasonic sen
  TRIG   ->   GPIO 5 
  ECHO   ->   GPIO 18 
 
-## Working Principle
+## Features
 
-The ESP32 sends a pulse through the TRIG pin. The HC-SR04 returns an echo pulse. The ESP32 calculates the distance based on the time taken for the echo to return.
+- Real-time distance measurement
+- Accurate object detection
+- Easy ESP32 interfacing
+- Serial Monitor output
+
+## Applications
+
+- Obstacle Detection
+- Robot Navigation
+- Distance Measurement Systems
+- Smart Parking Systems
+- Automation Projects  
 
 ## Source Code
 ultrasonic_distance_measurement.ino
