@@ -90,10 +90,11 @@ These libraries are commonly used for DHT11 and OLED display projects with ESP32
 
 ### Sumit Waghmare
 
-YouTube Channel:
+Watch the project Video:
+https://youtu.be/kpD8-ZhHqiA?si=uw8NA2s_P5INsQ3r
 
-https://www.youtube.com/@sumitlab802
+YouTube Channel:
+https://www.youtube.com/@sumitlab8028
 
 LinkedIn:
-
-https://www.linkedin.com/in/sumit-waghmare-20b2722a5/
+https://www.linkedin.com/in/sumit-waghmare-
