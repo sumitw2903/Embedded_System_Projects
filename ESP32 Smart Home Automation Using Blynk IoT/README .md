@@ -111,12 +111,6 @@ Install all required libraries through the Arduino IDE Library Manager before up
 * Mobile notifications
 * Scheduling and timer control
 
-## Project Demonstration
-
-📺 **Watch the Project Video**
-
-(Add your YouTube video link here)
-
 
 ### YouTube Channel
 
@@ -126,7 +120,7 @@ https://www.youtube.com/@sumitlab8028
 ## Author 
 ### Sumit Waghmare 
 Watch the project Video: 
-
+https://youtu.be/FlmqYPFcvGw?si=YPz5wDEqQnj0Zwcu
 
 YouTube Channel:
 https://www.youtube.com/@sumitlab8028 
