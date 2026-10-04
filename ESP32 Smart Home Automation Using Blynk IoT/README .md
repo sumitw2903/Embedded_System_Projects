@@ -122,10 +122,6 @@ Install all required libraries through the Arduino IDE Library Manager before up
 
 https://www.youtube.com/@sumitlab8028
 
-### LinkedIn
-
-https://www.linkedin.com/in/sumit-waghmare-20b2722a5/
-
 
 ## Author 
 ### Sumit Waghmare 
