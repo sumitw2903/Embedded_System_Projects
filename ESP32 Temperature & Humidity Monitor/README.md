@@ -80,11 +80,6 @@ This project monitors temperature and humidity using a DHT11 sensor and displays
 
 These libraries are commonly used for DHT11 and OLED display projects with ESP32. :contentReference[oaicite:0]{index=0}
 
-## Project Demonstration
-
-📺 Watch the Project Video:
-
-(Add your YouTube video link here)
 
 ## Author
 
