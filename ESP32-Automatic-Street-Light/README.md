@@ -99,14 +99,14 @@ No additional libraries are required for basic LDR and relay operation.
 - Mobile Notifications
 
 ## Author
-**Sumit Tanaji Waghmare**  
-## Connect With Me
+**Sumit **  
+
+### Project Video Link 
+https://youtu.be/dZgkXffLQWQ?si=Dpqr4Dlsl6mXkyYH
 
 ### YouTube Channel
 https://www.youtube.com/@sumitlab8028
 
 ### LinkedIn
 https://www.linkedin.com/in/sumit-waghmare-
-
-### GitHub
-https://github.com/sumitw2903 
+ 
