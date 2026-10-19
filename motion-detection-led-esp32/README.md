@@ -65,7 +65,7 @@ LinkedIn:
 https://www.linkedin.com/in/sumit-waghmare-
 
 Watch the project video:
-
+https://www.youtube.com/watch?v=Ndfl2Uvzz-w
 
 YouTube Channel:
 https://www.youtube.com/@sumitlab8028
